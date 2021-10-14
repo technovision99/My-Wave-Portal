@@ -1,15 +1,2 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This was a small project created thanks to the instruction and help of @_buildspace. I'd recommend checking them out if you're interested.
+Still have a lot more to learn about web3, but I can feel myself getting more comfortable, especially with react and javascript since I've never used them.
